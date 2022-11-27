@@ -1,0 +1,11 @@
+.description {
+  width: 210px;
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 400;
+}
+.avatar {
+  width: 150px;
+
+  border-radius: 50%;
+}

@@ -1,0 +1,304 @@
+{
+    "cards": [
+        {
+            "id": "1",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=male",
+            "name": "Marius Alexandru Ion",
+            "description": "Love and determination are the greatest gifts to yourself and we must work hard and long to achieve them. ",
+            "abilities": [
+                "Humorous",
+                "Anticipative",
+                "Disciplined",
+                "Reflective",
+                "Level-Headed",
+                "Social"
+            ]
+        },
+        {
+            "id": "2",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Douglas Bennett",
+            "description": "Work is more than a job. It's a calling. A duty. A source of great purpose and fulfillment.",
+            "abilities": [
+                "Dedicated",
+                "Rational",
+                "Attentive",
+                "Organized",
+                "Insightful",
+                "Modest"
+            ]
+        },
+        {
+            "id": "3",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Anne-Marie",
+            "description": "If you have determination and love for hard work, you can make your dream job come true.",
+            "abilities": [
+                "Dynamic",
+                "Skillful",
+                "Kind",
+                "Efficient",
+                "Directed",
+                "Intelligent"
+            ]
+        },
+        {
+            "id": "4",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Jesse Rodriguez",
+            "description": "Determination, motivated love, and other positive qualities are required for anyone who wants to succeed in life. ",
+            "abilities": [
+                "Daring",
+                "Educated",
+                "Courageous",
+                "Rational",
+                "Tidy",
+                "Social"
+            ]
+        },
+        {
+            "id": "5",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Arthur Young",
+            "description": "I am determined to be the best that I can be",
+            "abilities": [
+                "Decisive",
+                "Forgiving",
+                "Honest",
+                "Charismatic",
+                "Directed",
+                "Reliable"
+            ]
+        },
+        {
+            "id": "6",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Ronald Carter",
+            "description": "I am motivated to love my family, my friends, my job, and my church.",
+            "abilities": [
+                "Passionate",
+                "Stable",
+                "Enthusiastic",
+                "Modest",
+                "Moral",
+                "Wise"
+            ]
+        },
+        {
+            "id": "7",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Christine Diaz",
+            "description": "I am determined to reach my goals.",
+            "abilities": [
+                "Humorous",
+                "Anticipative",
+                "Disciplined",
+                "Reflective",
+                "Level-Headed",
+                "Social"
+            ]
+        },
+        {
+            "id": "8",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Joshua Thompson",
+            "description": "Work is a constant process of change.",
+            "abilities": [
+                "Dedicated",
+                "Rational",
+                "Attentive",
+                "Organized",
+                "Insightful",
+                "Modest"
+            ]
+        },
+        {
+            "id": "9",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Wayne Baker",
+            "description": "To be effective and efficient, you need to be constantly learning, adapting, and evolving.",
+            "abilities": [
+                "Dynamic",
+                "Skillful",
+                "Kind",
+                "Efficient",
+                "Directed",
+                "Intelligent"
+            ]
+        },
+        {
+            "id": "10",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Bobby Martinez",
+            "description": "Work is a life-long journey, not a destination.",
+            "abilities": [
+                "Daring",
+                "Educated",
+                "Courageous",
+                "Rational",
+                "Tidy",
+                "Social"
+            ]
+        },
+        {
+            "id": "11",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Melissa Hill",
+            "description": "Success is a state of mind.",
+            "abilities": [
+                "Decisive",
+                "Forgiving",
+                "Honest",
+                "Charismatic",
+                "Directed",
+                "Reliable"
+            ]
+        },
+        {
+            "id": "12",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Ernest Davis",
+            "description": "Find ways to motivate yourself and others to achieve your goals and stay motivated to succeed.",
+            "abilities": [
+                "Passionate",
+                "Stable",
+                "Enthusiastic",
+                "Modest",
+                "Moral",
+                "Wise"
+            ]
+        },
+        {
+            "id": "13",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Phillip Washington",
+            "description": "Determination and motivation are the keys to success and happiness. ",
+            "abilities": [
+                "Dedicated",
+                "Rational",
+                "Attentive",
+                "Organized",
+                "Insightful",
+                "Modest"
+            ]
+        },
+        {
+            "id": "14",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Martin Taylor",
+            "description": "I love my job and the people I work with. I don't let anything hold my back, ever.",
+            "abilities": [
+                "Dynamic",
+                "Skillful",
+                "Kind",
+                "Efficient",
+                "Directed",
+                "Intelligent"
+            ]
+        },
+        {
+            "id": "15",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Catherine Cox",
+            "description": "Motivated by your determination to succeed and your love for people and life, you are a good leader.",
+            "abilities": [
+                "Humorous",
+                "Anticipative",
+                "Disciplined",
+                "Reflective",
+                "Level-Headed",
+                "Social"
+            ]
+        },
+        {
+            "id": "16",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Bruce White",
+            "description": "Work brings out the best in people.",
+            "abilities": [
+                "Daring",
+                "Educated",
+                "Courageous",
+                "Rational",
+                "Tidy",
+                "Social"
+            ]
+        },
+        {
+            "id": "17",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Mark Campbell",
+            "description": "Work hard, play harder. That's the way you should be living your life.",
+            "abilities": [
+                "Dedicated",
+                "Rational",
+                "Attentive",
+                "Organized",
+                "Insightful",
+                "Modest"
+            ]
+        },
+        {
+            "id": "18",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Todd Adams",
+            "description": " You can do anything you want.",
+            "abilities": [
+                "Humorous",
+                "Anticipative",
+                "Disciplined",
+                "Reflective",
+                "Level-Headed",
+                "Social"
+            ]
+        },
+        {
+            "id": "19",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "James Russell",
+            "description": "If you truly want to do something, do it without fail.",
+            "abilities": [
+                "Passionate",
+                "Stable",
+                "Enthusiastic",
+                "Modest",
+                "Moral",
+                "Wise"
+            ]
+        },
+        {
+            "id": "20",
+            "variant": "hover",
+            "img": "https://xsgames.co/randomusers/avatar.php?g=female",
+            "name": "Janet Perez",
+            "description": "If you want to accomplish something, you must never give up.",
+            "abilities": [
+                "Dedicated",
+                "Rational",
+                "Attentive",
+                "Organized",
+                "Insightful",
+                "Modest"
+            ]
+        }
+    ]
+}

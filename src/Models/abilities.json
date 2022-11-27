@@ -1,0 +1,148 @@
+{
+    "abilities": [
+        {
+            "id": "0",
+            "name": "Humorous"
+        },
+        {
+            "id": "1",
+            "name": "Anticipative"
+        },
+        {
+            "id": "2",
+            "name": "Disciplined"
+        },
+        {
+            "id": "3",
+            "name": "Reflective"
+        },
+        {
+            "id": "4",
+            "name": "Level-Headed"
+        },
+        {
+            "id": "5",
+            "name": "Social"
+        },
+        {
+            "id": "6",
+            "name": "Dedicated"
+        },
+        {
+            "id": "7",
+            "name": "Rational"
+        },
+        {
+            "id": "8",
+            "name": "Attentive"
+        },
+        {
+            "id": "9",
+            "name": "Organized"
+        },
+        {
+            "id": "10",
+            "name": "Insightful"
+        },
+        {
+            "id": "11",
+            "name": "Modest"
+        },
+        {
+            "id": "12",
+            "name": "Dynamic"
+        },
+        {
+            "id": "13",
+            "name": "Skillful"
+        },
+        {
+            "id": "14",
+            "name": "Kind"
+        },
+        {
+            "id": "15",
+            "name": "Efficient"
+        },
+        {
+            "id": "16",
+            "name": "Directed"
+        },
+        {
+            "id": "17",
+            "name": "Intelligent"
+        },
+        {
+            "id": "18",
+            "name": "Daring"
+        },
+        {
+            "id": "19",
+            "name": "Educated"
+        },
+        {
+            "id": "20",
+            "name": "Courageous"
+        },
+        {
+            "id": "21",
+            "name": "Rational"
+        },
+        {
+            "id": "22",
+            "name": "Tidy"
+        },
+        {
+            "id": "23",
+            "name": "Social"
+        },
+        {
+            "id": "24",
+            "name": "Decisive"
+        },
+        {
+            "id": "25",
+            "name": "Forgiving"
+        },
+        {
+            "id": "26",
+            "name": "Honest"
+        },
+        {
+            "id": "27",
+            "name": "Charismatic"
+        },
+        {
+            "id": "28",
+            "name": "Directed"
+        },
+        {
+            "id": "29",
+            "name": "Reliable"
+        },
+        {
+            "id": "30",
+            "name": "Passionate"
+        },
+        {
+            "id": "31",
+            "name": "Stable"
+        },
+        {
+            "id": "32",
+            "name": "Enthusiastic"
+        },
+        {
+            "id": "33",
+            "name": "Modest"
+        },
+        {
+            "id": "34",
+            "name": "Moral"
+        },
+        {
+            "id": "35",
+            "name": "Wise"
+        }
+    ]
+}
